@@ -1,6 +1,6 @@
 **<h1>Jay Hayes</h1>**
 
-👨‍💻 <h3>Recently graduated junior developer.</h3>
-🧘‍♂️ <h3>Mindfulness enthusiast.</h3>
-💀 <h3>Horror fiction bod</h3>
-🚴‍♂️ <h3>Casual cycling fan.</h3>
+<h2>👨‍💻 Recently graduated junior developer.</h2>
+<h2>🧘‍♂️ Mindfulness enthusiast.</h2>
+<h2>💀 Horror fiction bod</h2>
+<h2>🚴‍♂️ Casual cycling fan.</h2>
