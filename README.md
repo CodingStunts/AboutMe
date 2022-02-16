@@ -8,3 +8,5 @@
 <p>Hello! Thanks for visiting my GitHub.</p>
 <p>I am a recent Northcoders graduate from their 13 week coding bootcamp in Manchester, UK. I followed an industry-led JavaScript intensive curriculum covering node.js, React, PostgresQL, Express, amongst others.</p>
 <p>I have also worked with Firebase, React Native, including React Paper, React Navigation.</p>
+
+<p>I am currently looking for my first tech role as a junior developer to kickstart my new career.</p>
